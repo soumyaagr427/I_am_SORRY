@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">I_am_SORRY</string>
+    <string name="edit_message">Scold Me Here</string>
+    <string name="button_send">SEND</string>
+    <string name="sorry">I AM SORRY</string>
+    <string name="todo">TODO</string>
+
 </resources>
